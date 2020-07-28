@@ -1,7 +1,7 @@
 import os
 print(" ----------------------------- ")
 print("| github downloader from file  |")
-print("| created by darkness chieftain|"
+print("| created by darkness chieftain|")
 print(" ----------------------------- ")
 
 print("example of path for repos file = /home/user/dlfiles.txt")
